@@ -1,6 +1,7 @@
 # MotionArtifactsBySD
 
 [![](https://zenodo.org/badge/DOI/10.5281/zenodo.17640527.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.17640527.svg)
+[![DOI:10.1016/j.bone.2026.117878](https://zenodo.org/badge/DOI/10.1016/j.bone.2026.117878.svg)](https://doi.org/10.1016/j.bone.2026.117878)
 
 This repository accompanies the publication "Estimating Motion Artifacts of HR-pQCT Scans Using Automatically Derived 
 Standard Parameters of Bone Structure- and Density-Quantification".
